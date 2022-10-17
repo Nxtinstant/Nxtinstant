@@ -2,7 +2,7 @@
 - we make app for our costumers 
 - from mit app inventor 
 -we make apps free also and paid also 
--visit our website:https://aryanwankhede1211.wixsite.com/nxtinstant
+-visit our website:https://nxtinstantog.wixsite.com/nxtinstant
 
 <!---
 Nxtinstant/Nxtinstant is a ✨ special ✨ repository because its `best` (this file) appears on your GitHub profile.
